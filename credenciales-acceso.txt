@@ -1,0 +1,21 @@
+Credenciales de Cuenta Google vinculado al proyecto:
+
+correo: viva.andaz.laravelproject@gmail.com
+
+pass: $viva-andaz-951-753
+
+
+Credenciales de GitHub ( Repositorio donde estará almacenado el código fuente ):
+
+Username: VivaAndazProjectLaravel
+
+correo: viva.andaz.laravelproject@gmail.com
+
+pass: $viva-andaz-951-753
+
+
+te envio token de acceso al repositorio github, este tiene una duración de 90 días a partir del 02-noviembre-2021
+
+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
+
+Este token sirve para tener acceso a realizar modificaciones al codigo fuente desde una terminal o desde nuestra pc
